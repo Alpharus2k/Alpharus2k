@@ -1,6 +1,10 @@
-### Hi there 👋
+ ![banner](https://user-images.githubusercontent.com/85266976/225028697-6361d810-8f3c-48de-aaa3-ab9a20c92bdd.png)
+
+
+
 
 <!--
+
 **Alpharus2k/Alpharus2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
