@@ -1,7 +1,7 @@
  ![banner](https://user-images.githubusercontent.com/85266976/225028697-6361d810-8f3c-48de-aaa3-ab9a20c92bdd.png)
  
   ## 📩 Connect
-  * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
+  * Do you have any question or project to work together? Don't hesitate! The coffee's on me ☕.
 
 <p align="left" >
       <a href="mailto:constantin.mitrokhin@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
