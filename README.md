@@ -1,4 +1,6 @@
  ![banner](https://user-images.githubusercontent.com/85266976/225028697-6361d810-8f3c-48de-aaa3-ab9a20c92bdd.png)
+ 
+ ▶ | JavaScript Full-Stack Developer | ✪ Node | ✪ React | ✪ SQL | ✪ Sequelize | ✪ Express | ✪ JWT | ✪ Redux | ✪ Web API
   ## ![About_icon-icons com_55974](https://user-images.githubusercontent.com/85266976/225634316-47211d6b-3a51-4c7b-b4bb-6cba822f18e6.png) About
    As a JavaScript Fullstack Developer, I am committed to creating innovative solutions for businesses of different sizes and industries. With a strong focus on process analysis, 3rd NF DB design and implementation, problem-solving, and system testing, I have worked on projects that have had a positive impact on companies and their customers.
 
