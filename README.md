@@ -1,5 +1,11 @@
  ![banner](https://user-images.githubusercontent.com/85266976/225028697-6361d810-8f3c-48de-aaa3-ab9a20c92bdd.png)
- 
+  ## ![About_icon-icons com_55974](https://user-images.githubusercontent.com/85266976/225634316-47211d6b-3a51-4c7b-b4bb-6cba822f18e6.png) About
+   As a JavaScript Fullstack Developer, I am committed to creating innovative solutions for businesses of different sizes and industries. With a strong focus on process analysis, 3rd NF DB design and implementation, problem-solving, and system testing, I have worked on projects that have had a positive impact on companies and their customers.
+
+Among my most notable achievements is the development and implementation of the graphical interface of the Stock and Invoicing Management System for SMEs while working at Process Consultora S.A., as well as my current project of commercial management software for entrepreneurs and SMEs that allows for product sales, cost calculation, and keeping a record of suppliers and customers.
+
+In addition to my software development experience, I am characterized by having strong problem-solving and analytical skills, and by being a committed collaborator with a team-teaching approach. I am a future Systems Analyst at ORT and have completed update courses in Java, SQL, and JavaScript, and recently completed the Henry Boot Camp. I am also a Higher Technician in Social Psychology.
+
   ## 📩 Connect
   * Do you have any question or project to work together? Don't hesitate! The coffee's on me ☕.
 
@@ -19,7 +25,8 @@
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpharus2k&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
-##  Skills
+## Skills
+
 
 ![file_type_node_icon_130301 (2)](https://user-images.githubusercontent.com/85266976/225630505-9ef17223-dcd7-440f-a444-e125e58a93bd.png)
 ![javascript_icon_130900](https://user-images.githubusercontent.com/85266976/225631078-62c6c107-8551-4ab6-9384-f2f22aefa395.png)
