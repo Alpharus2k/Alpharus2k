@@ -19,18 +19,20 @@
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpharus2k&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
+##  Skills
+
+![file_type_node_icon_130301 (2)](https://user-images.githubusercontent.com/85266976/225630505-9ef17223-dcd7-440f-a444-e125e58a93bd.png)
+![javascript_icon_130900](https://user-images.githubusercontent.com/85266976/225631078-62c6c107-8551-4ab6-9384-f2f22aefa395.png)
+![react_original_wordmark_logo_icon_146375 (2)](https://user-images.githubusercontent.com/85266976/225631471-69eb546b-28b7-4d9a-840a-2a927824b7ba.png)
+![file_type_sql_icon_130152 (2)](https://user-images.githubusercontent.com/85266976/225631480-a9012239-92c5-417a-a058-487dc64e24b6.png)
+![redux_original_logo_icon_146365 (1)](https://user-images.githubusercontent.com/85266976/225631493-81f22731-dcde-40f6-9bf0-4af92b6893d7.png)
+![sequelize_original_logo_icon_146348 (1)](https://user-images.githubusercontent.com/85266976/225632165-8fdb5963-a7e2-40bc-aceb-a656f4e1d561.png)
+![file_type_html_icon_130541 (1)](https://user-images.githubusercontent.com/85266976/225632171-2821ac83-cedd-428b-a847-cee57ebeb12b.png)
+![file_type_css_icon_130661 (1)](https://user-images.githubusercontent.com/85266976/225632202-066c10aa-7261-45db-a1f4-9463de4ef782.png)
+![express_original_wordmark_logo_icon_146528 (1)](https://user-images.githubusercontent.com/85266976/225632224-6b83ced0-654c-4771-95aa-5a211dbe6e69.png)
+
+
 <!--
 
 **Alpharus2k/Alpharus2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
