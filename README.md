@@ -39,7 +39,9 @@ In addition to my software development experience, I am characterized by having 
 ![file_type_html_icon_130541 (1)](https://user-images.githubusercontent.com/85266976/225632171-2821ac83-cedd-428b-a847-cee57ebeb12b.png)
 ![file_type_css_icon_130661 (1)](https://user-images.githubusercontent.com/85266976/225632202-066c10aa-7261-45db-a1f4-9463de4ef782.png)
 ![express_original_wordmark_logo_icon_146528 (1)](https://user-images.githubusercontent.com/85266976/225632224-6b83ced0-654c-4771-95aa-5a211dbe6e69.png)
-
+<!--
+![java_22523](https://user-images.githubusercontent.com/85266976/225787264-f0093d15-4248-4584-9166-cfcdce99277f.png)
+-->
 
 <!--
 
